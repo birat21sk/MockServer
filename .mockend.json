@@ -1,0 +1,13 @@
+{
+  "Product": {
+    "title": { "string": {} },
+    "comments": {
+      "hasMany": "Comment"
+    }
+  },
+  "Cart": {
+    "post": {
+      "hasMany": "Product"
+    }
+  }
+}
