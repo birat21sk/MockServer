@@ -12,7 +12,7 @@
     },
     "likes": { "int": { "min": 0, "max": 10000 } },
     "description": {
-      "loremWords": { "minLength": 5, "maxLength": 50 }
+      "loremWords": { "minLength": 5, "maxLength": 100 }
     }
   },
   "Comment": {
