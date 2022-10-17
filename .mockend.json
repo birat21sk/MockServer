@@ -10,7 +10,7 @@
     }
   },
   "Cart": {
-    "post": {
+    "product": {
       "hasMany": "Product"
     }
   }
